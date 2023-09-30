@@ -1,0 +1,7 @@
+##means of transport to the coast of kenya
+
+flight(safarilink, jambojet, ukunda)
+train (madaraka express)
+bus
+taxi
+personal car
