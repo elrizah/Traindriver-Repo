@@ -1,0 +1,8 @@
+school admin
+sub admin officers
+chairman
+lectures
+students
+workers
+cooks
+canteen
